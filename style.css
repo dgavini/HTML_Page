@@ -1,0 +1,112 @@
+.mainwindow{
+    width: 1000px;
+  height: 1000px;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+    top:0%;
+    bottom: 25%;
+    left: 15%;
+    right: 15%;
+}
+
+.heading{
+  width: 960px;
+  height: 100px;
+  background-color: gainsboro;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+}
+
+.footer{
+  width: 970px;
+  height: 30px;
+  background-color: rgb(214,173,120);
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+    top:93%;
+    bottom: 95%;
+    left: 0%;
+    right: 25%;
+}
+
+.div1{
+    width: 275px;
+  height: 675px;
+  border: dotted black;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+    top:14%;
+    bottom: 25%;
+    left: 2%;
+    right: 25%;
+}
+
+.div2{
+    width: 275px;
+  height: 675px;
+  border: dotted black;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+    top:14%;
+    bottom: 25%;
+    left: 34%;
+    right: 0;
+}
+
+.div3{
+    width: 275px;
+  height: 675px;
+  border: dotted black;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+    top:14%;
+    bottom: 25%;
+    left: 66%;
+    right: 0;
+}
+
+
+.table{
+  width: 970px;
+  height: 90px;
+  padding: 2px;
+  margin: 2px;
+  position: absolute;
+  top:84%;
+  bottom: 90%;
+  left: 2%;
+  right: 25%;
+  border: 2px solid #000; 
+
+}
+
+td {
+    border:1px solid black;
+}
+tr, th{
+    border:1px solid black;
+}
+
+body{
+    scroll-behavior: inherit;
+}
+
+.bold-hr {
+  border: 1px solid black; 
+  font-weight: bold; 
+}
+.image{
+  width: 100px;
+  height: 100px;
+  top: 0%;
+  bottom: 200%;
+  left: 0.2%;
+  right: 85%;
+}
